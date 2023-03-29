@@ -8,7 +8,7 @@ This repository has been used for the experiments presented in [Optimizing Trans
 * pytorch=1.5.0
 
 # Installation
-`git clone [https://github.com/aliaraabi/OptTransformer.git](https://github.com/aliaraabi/OptTransformer.git`
+`git clone [https://github.com/aliaraabi/OptTransformer.git](https://github.com/aliaraabi/OptTransformer.git)`
 
 `cd OptTransformer`
 
