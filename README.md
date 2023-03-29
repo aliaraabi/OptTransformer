@@ -5,7 +5,7 @@ This repository has been used for the experiments presented in [Optimizing Trans
 # Requirements
 * Python=3.7.7
 
-* pytorch=1.5.0
+* Pytorch=1.5.0
 
 # Installation
 `git clone https://github.com/aliaraabi/OptTransformer.git`
